@@ -1,2 +1,2 @@
-# my-python5
-my python5
+name = input("Enter your name: ")
+print("Hello", name)
